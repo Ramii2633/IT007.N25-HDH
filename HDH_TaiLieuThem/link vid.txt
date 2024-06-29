@@ -1,0 +1,79 @@
+- Tuần 1:
+Chương 1: Tổng quan về hệ điều hành
+
+Giới thiệu chương 1: https://www.youtube.com/watch?v=FCj925p1MY8
+Khái niệm và chức năng chính của hệ điều hành: https://www.youtube.com/watch?v=YsWc2oHnd4E
+
+Phân loại hệ điều hành dưới góc độ loại máy tính: https://www.youtube.com/watch?v=PyVr-DkXbMo
+
+Phân loại hệ điều hành dưới góc độ hình thức xử lý: https://www.youtube.com/watch?v=rHgMyeZ-Ygg
+
+Hệ thống chia sẻ thời gian, hệ thống song song: https://www.youtube.com/watch?v=O49LrhqNe4Q
+
+Hệ thống phân tán, hệ thống nhúng thời gian thực: https://www.youtube.com/watch?v=GpExvZObmM8&t=1s
+Sơ lược lịch sử phát triển của hệ điều hành: https://www.youtube.com/watch?v=oMsBkSmTfM4
+Tổng kết chương 1: https://www.youtube.com/watch?v=suraIheit4I
+
+- Tuần 2:
+Chương 2: Cấu trúc hệ điều hành
+
++ Phần 1:
+
+Giới thiệu chương 2: https://www.youtube.com/watch?v=QFwR6GZX9Hk
+Các thành phần của hệ điều hành, quản lý tiến trình: https://www.youtube.com/watch?v=iieosafU0rQ
+
+Quản lý bộ nhớ chính: https://www.youtube.com/watch?v=9iYniUDD-sY&t=1s
+
+Quản lý file, I/O, lưu trữ thứ cấp: https://www.youtube.com/watch?v=8qvu-dV70bo
+Hệ thống bảo vệ, hệ thống thông dịch lệnh: https://www.youtube.com/watch?v=4yOjt6XNVeE&t=1s
+
++ Phần 2:
+
+Các dịch vụ hệ điều hành cung cấp: https://www.youtube.com/watch?v=jBCZ-ZnjwiY
+
+Lời gọi hệ thống và ví dụ: https://www.youtube.com/watch?v=5RmJfs-W7tk
+
+Chương trình hệ thống và ví dụ: https://www.youtube.com/watch?v=4oqIgKMiWjY
+
+Cấu trúc hệ thống của hệ điều hành: https://www.youtube.com/watch?v=ilIVjknsvUo&t=1s
+
+Tổng kết chương 2: https://www.youtube.com/watch?v=FXcqx3wm7t0
+
+- Tuần 3:
+Chương 3: Tiến trình
+
++ Phần 1:
+
+Giới thiệu chương 3: https://www.youtube.com/watch?v=VWkdioamxSY
+Khái niệm cơ bản về tiến trình: https://www.youtube.com/watch?v=v3Ib9PSQomk
+
+Các trạng thái của tiến trình: https://www.youtube.com/watch?v=VQtR7ax9nas&t=1s
+
+PCB Process Control Block: https://www.youtube.com/watch?v=a3xk881tBPk
+
++ Phần 2:
+
+Định thời tiến trình: https://www.youtube.com/watch?v=TtuJYUYxcWw&t=1s
+
+Các tác vụ đối với tiến trình: https://www.youtube.com/watch?v=TfHQqF-yboQ&t=2s
+
+Giao tiếp liên tiến trình: https://www.youtube.com/watch?v=O4L-68xRRsA
+
+Tiểu trình: https://www.youtube.com/watch?v=ybubSMt1EWc&t=1s
+
+Tổng kết chương 3: https://www.youtube.com/watch?v=HB1B5yH_jQc&t=1s
+
+- Tuần 4:
+Chương 4: Định thời CPU (P1)
+
+Ôn tập chương 3: https://www.youtube.com/watch?v=8yDF6ipkQBc
+
+Các khái niệm cần biết: https://www.youtube.com/watch?v=jjfv5JN63yY
+
+Giải thuật FCFS: https://www.youtube.com/watch?v=YUdD-a5EmyU
+
+Giải thuật SJF - SRTF: https://www.youtube.com/watch?v=iqd2Lvl2ujQ
+
+Giải thuật Priority Scheduling: https://www.youtube.com/watch?v=gXH88n2gyWc
+
+Tổng kết chương 4 (p1): https://www.youtube.com/watch?v=lGN4kYWjmgA
